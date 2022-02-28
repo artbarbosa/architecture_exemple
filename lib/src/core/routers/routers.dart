@@ -1,4 +1,4 @@
-import 'package:architecture_exemple/src/core/services/client_http_service.dart';
+import 'package:architecture_exemple/src/core/services/remote/client_http_service.dart';
 import 'package:architecture_exemple/src/features/home/router/home_router.dart';
 import 'package:architecture_exemple/src/features/home/service/local/local_storage_service.dart';
 import 'package:flutter/material.dart';

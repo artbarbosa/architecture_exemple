@@ -1,5 +1,5 @@
 import '../../../core/const/api_cont.dart';
-import '../../../core/services/client_http_service.dart';
+import '../../../core/services/remote/client_http_service.dart';
 import '../model/post_model.dart';
 import 'home_repository_interface.dart';
 
